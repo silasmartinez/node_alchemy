@@ -1,6 +1,6 @@
 {
   "name": "node_alchemy",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "A promise based JavaScript interface for the Alchemy API.",
   "main": "index.js",
   "scripts": {
