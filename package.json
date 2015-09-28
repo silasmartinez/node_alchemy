@@ -1,6 +1,6 @@
 {
   "name": "node_alchemy",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "A promise based JavaScript interface for the Alchemy API.",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,6 @@
   "author": "Silas Martinez <silasm@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.6.0"
+    "axios": "^0.5.4"
   }
 }
